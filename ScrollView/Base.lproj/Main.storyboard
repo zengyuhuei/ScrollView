@@ -55,6 +55,11 @@
                                         <viewLayoutGuide key="safeArea" id="IGk-eh-7DR"/>
                                     </view>
                                 </subviews>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="range" keyPath="contentSize">
+                                        <range key="value" location="1930" length="0"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                             </scrollView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Capoo" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="25A-Lf-PS4">
                                 <rect key="frame" x="0.0" y="20" width="375" height="83"/>
